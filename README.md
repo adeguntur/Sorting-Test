@@ -1,6 +1,21 @@
 # Sorting-Test
 Sorting Test to answer the IT Internship Radica Software test
 
+## How to open this project
+
+A step by step to open this project
+
+Clone this repositories
+
+```
+https://github.com/adeguntur/Sorting-Test.git
+```
+
+Open Folder Shorting and Click index.html 
+
+and will automatically go to your browser
+
+
 ## Display Form input
 <img width="1438" alt="form" src="https://user-images.githubusercontent.com/31888923/53777946-9e189480-3f2d-11e9-8e1c-209e4e5f04a8.png">
 
